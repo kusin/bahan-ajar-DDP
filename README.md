@@ -29,18 +29,18 @@
 
 - Nilai Akhir = 40% Formatif + 30% UTS + 30% UAS
 
-## Keterangan
+## Keterangan Nilai
 
 - Formatif = tugas individu setiap pertemuan (40%)
 - UTS = evaluasi belajar berupa praktikum (15%) + tertulis (15%)
 - UAS = evaluasi belajar berupa membuat aplikasi (projek) (15%) + tertuluis (15%)
 
-# Format UTS
+## Format UTS
 
 - UTS tertulis = 20 soal pilihan ganda + 5 soal essai
 - UTS praktikum = membuat program sederhana diruang praktikum selama 3sks
 
-# Format UAS
+## Format UAS
 
 - UAS tertulis = 10 soal essai
 - UAS projek = membuat aplikasi sederhana dengan syarat
