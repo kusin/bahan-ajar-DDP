@@ -3,16 +3,15 @@
 */
 
 // DEKLARASI pustaka
-#include <stdio.h> // pustaka untuk standar input dan/atau output (I/O)
+#include <stdio.h>  // pustaka untuk standar input dan/atau output (I/O)
 
 // DEKLARASI variabel
-int sisi;     // variabel masukan program
-int luas;     // variael keluaran program
-int keliling; // variael keluaran program
+int sisi;           // variabel masukan program
+int luas;           // variael keluaran program
+int keliling;       // variael keluaran program
 
 // ALGORITMA
-int main()
-{
+int main(){
     // masukan program
     printf("Masukan sisi : ");
     scanf("%i", &sisi);
