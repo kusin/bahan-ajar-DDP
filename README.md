@@ -1,4 +1,4 @@
-## kebutuhan perangkat lunak
+## Kebutuhan perangkat lunak
 
 - DevC++ 5.11 (Teks Editor bahasa C/C++)
 - jdk version 11 (Compailer java LTS)
