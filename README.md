@@ -22,3 +22,13 @@
 - Pertemuan 14 = exception handling
 - Pertemuan 15 = Presentasi projek
 - Pertemuan 16 = UAS Tertulis
+
+## Format Nilai
+
+- Nilai Akhir = 40% Formatif + 30% UTS + 30% UAS
+
+## Keterangan
+
+- Formatif = tugas individu setiap pertemuan (40%)
+- UTS = evaluasi belajar berupa praktikum (15%) + tertulis (15%)
+- UAS = evaluasi belajar berupa membuat aplikasi (projek) (15%) + tertuluis (15%)
