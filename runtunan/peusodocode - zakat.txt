@@ -1,0 +1,11 @@
+PROGRAM Zakat
+{algoritma ini digunakan untuk menghitung jumlah zakat yg dibayarkan berdasarkan jumlah penghasilan seseorang}
+
+DEKLARASI
+    penghasilan : float {variabel untuk menerima masukan jumlah penghasilan seseorang}
+    zakat       : float {variabel untuk menampilkan jumlah zakat yg harus dibayarkan}
+
+ALGORITMA
+    read(penghasilan)               {masukan program}
+    zakat <- penghasilan * 0.025    {proses program}
+    write(zakat)                    {keluaran program}
