@@ -1,0 +1,15 @@
+// PROGRAM Persegi
+{Algoritma ini digunakan untuk menghitung luas dan keliling dari bangun persegi}
+
+// DEKLARASI
+    sisi        : integer   {variabel untuk menerima masukan sisi persegi}
+    luas        : integer   {variabel untuk menampilkan luas persegi}
+    keliling    : integer   {variabel untuk menampilkan keliling persegi}
+
+// ALGORITMA
+    read(sisi)              {masukan program}
+    
+    luas <- sisi * sisi     {proses program}
+    keliling <- sisi  * 4   {proses program}
+
+    write(luas, keliling)   {keluaran program}
