@@ -4,6 +4,16 @@
 - jdk version 11 (Compailer java LTS)
 - Netbean version 11.3 (IDE java LTS)
 
+## Referensi buku
+
+- Munir R, Lidya L. 2016. Algoritma dan Pemrograman: Dalam Bahasa Pascal, C, C++. Bandung(ID): Informatika.
+- Hariyanto B. 2016. Esensi-esensi Bahasa Pemrograman Java: Revisi 5. Bandung(ID): Informatika.
+
+## Referensi situs belajar
+
+- https://www.tutorialspoint.com/cprogramming/index.htm
+- https://www.tutorialspoint.com/java/index.htm
+
 ## Materi kuliah DDP
 
 - Pertemuan 1 = Pengantar Algoritma dan Pemrograman
@@ -17,13 +27,11 @@
 - Pertemuan 9 = UTS Tertulis
 - Pertemuan 10 = Pengantar bahasa java
 - Pertemuan 11 = Pengantar oop (class, object, method)
-- Pertemuan 12 = constructor, destructor, inheritance
-- Pertemuan 13 = encapsulation, polymorphism
-- Pertemuan 14 = exception handling
-- pertemuan 15 = graphical user interface
-- pertemuan 16 = event handling
-- Pertemuan 17 = Presentasi projek
-- Pertemuan 18 = UAS Tertulis
+- Pertemuan 12 = inheritance, encapsulation, polymorphism
+- Pertemuan 13 = exception handling
+- Pertemuan 14 = graphical user interface, event handling
+- pertemuan 15 = Presentasi projek
+- pertemuan 16 = UAS Tertulis
 
 ### Format Nilai
 
