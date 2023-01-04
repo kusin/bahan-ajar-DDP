@@ -25,11 +25,11 @@
 - Pertemuan 17 = Presentasi projek
 - Pertemuan 18 = UAS Tertulis
 
-## Format Nilai
+### Format Nilai
 
 - Nilai Akhir = 40% Formatif + 30% UTS + 30% UAS
 
-## Keterangan Nilai
+### Keterangan Nilai
 
 - Formatif = tugas individu setiap pertemuan (40%)
 - UTS = evaluasi belajar berupa praktikum (15%) + tertulis (15%)
@@ -45,4 +45,5 @@
 - UAS tertulis = 10 soal essai
 - UAS projek = membuat aplikasi sederhana dengan syarat
   - tampilan aplikasi menggunakan graphical user interface
-  -
+  - data sudah terintegrasi dengan database management system
+  - teknik penulisan program menggunakan object oriented programming
