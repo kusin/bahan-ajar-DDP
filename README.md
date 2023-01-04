@@ -20,8 +20,10 @@
 - Pertemuan 12 = constructor, destructor, inheritance
 - Pertemuan 13 = encapsulation, polymorphism
 - Pertemuan 14 = exception handling
-- Pertemuan 15 = Presentasi projek
-- Pertemuan 16 = UAS Tertulis
+- pertemuan 15 = graphical user interface
+- pertemuan 16 = event handling
+- Pertemuan 17 = Presentasi projek
+- Pertemuan 18 = UAS Tertulis
 
 ## Format Nilai
 
@@ -32,3 +34,15 @@
 - Formatif = tugas individu setiap pertemuan (40%)
 - UTS = evaluasi belajar berupa praktikum (15%) + tertulis (15%)
 - UAS = evaluasi belajar berupa membuat aplikasi (projek) (15%) + tertuluis (15%)
+
+# Format UTS
+
+- UTS tertulis = 20 soal pilihan ganda + 5 soal essai
+- UTS praktikum = membuat program sederhana diruang praktikum selama 3sks
+
+# Format UAS
+
+- UAS tertulis = 10 soal essai
+- UAS projek = membuat aplikasi sederhana dengan syarat
+  - tampilan aplikasi menggunakan graphical user interface
+  -
